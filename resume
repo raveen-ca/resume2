@@ -1,0 +1,122 @@
+<html>
+    <h1> RESUME </h1>
+  <hr>
+    <h3>RAVEEN.R</h3>
+    <p><b>Github UserName:  </b>raveen-ca</p>
+    <p><b> E-mail-id: </b>raveenr.ca21@kascsathy.ac.in</p>
+    <p><b>Mobile Number:  </b>9025570474</p>
+   <p><b>Linkedin:  </b>https://www.linkedin.com/in/raveen-r-8986b3259/</p>
+   <p><b></b></p>
+    <hr>
+    <h3>CAREER OBJECTIVES</h3>
+    <P id="career">
+
+        <P id="career">Excited to apply for the position in IT field. To obtain a challenging career in the IT industry with all my efforts into the growth of the Organization.</p>
+    <hr>
+<h3>EDUCATION</h3>
+<table border="3" style="width:70%">
+    <tr style="height:50px">
+      <th colspan="1">EDUCATION</th>
+        <th> INSTITUTION</th>
+        <th>YEAR OF PASSING</th>
+        <th>PERCENTAGE</th>
+    </tr>
+    <tr style="height:35px">
+        <th>Bachelor of Computer Applications</th>
+        <td>Kaamadhenu Arts and Science College, Sathyamangalam, Erode.</td>
+        <td>Till 4th semester</td>
+        <td>60.63%</td>
+    </tr>
+    <tr style="height:35px">
+        <th>HSC</th>
+        <td>Government Higher Secondary School, Manjoor, The Nilgris.</td>
+        <td>2020-2021</td>
+        <td>68.6%</td>
+    <tr style="height:35px">
+        <th>SSLC</th>
+        <td>Government Higher Secondary School, Emerald,  The Nilgris.</td>
+        <td>2018-2019</td>
+        <td>40%</td>
+    </tr>
+</table>
+  <hr>
+  <h3>SKILLS</h3>
+
+<h4>GitHub</h4>
+<ul>
+    <li>Create web page in GitHub, Build a file, Build a file, Code sharing,</li>
+   </ul>
+<h4>Database</h4>
+<ul>
+    <li> To create a Database, Edit in database, Maintain Database files, Record, Insert table, Alter the table, update the table.</li>
+</ul>
+<h4>Google Cloud Shell</h4>
+<ul>
+    <li>To Create a file, To Create a Database, To Create a SQL, To Create a SQLlite3, To Connect tomcat, To Create a SQL, To Connect C and SQLlite)</li>
+  </ul>
+<ul>
+    <h4>MySQL</h4>
+    <li>    To Connect MYSQL and Maven In Cloud Shell (Commands know: ls,pwd,chmod,mkdir,rmdir,cd,cat,rm,rm -r,wc, mv, touch, cp, sudo, clear, exit).
+</li> <ul>
+    <h4> MAVEN</h4>
+    <li>I have learn this type of commands MVN compiler,MVN exec,MVN -q exec, MVN treestructure,MVN tomcat7:run,commands in Mavan.</li>
+</ul>
+  <hr>
+    <ul>
+<h3>Program skills</h3>
+
+      <h4>C</h4>
+    <li>  Variables,Data Types,Type Conversion,Operators,Booleans,If ... Else,Switch,While Loop,For Loop,Break and Continue,Arrays,Multidimensional Arrays, and C Basic.</li>
+ </ul>
+       <ul>
+         <h4>Java</h4>
+           <li>Comments, Variables,Data Types,Operators,Strings,Math,If ... Else,Switch,While Loop, For Loop, Break and Continue,Arrays.</li>
+    </ul>
+    <ul>
+      <h4>HTML</h4>
+      <li> Text Formatting[(b) - Bold text, (strong) - Important text, (i) - Italic text, (em) - Emphasized text, (mark) - Marked text,(small) - Smaller text, (del) - Deleted text, (ins) - Inserted text, (sub) - Subscript text, (sup) - Superscript text].</li>
+      </ul>
+
+    <hr>
+      <ul>
+<h3>DECLARATION</h3>
+<p id="declaration">I hereby declare that all the information given above is true and correct to the best of my knowledge.</p>
+      </ul>
+        <hr>
+
+<div>
+    <p class="head"><b>PLACE: </b></p>
+    <div class="row">
+        <div class="col-4">
+            <p class="head"><b>DATE: </b></p>
+                         <p class="head"><b>Signature: </b></p>
+
+
+        </div>
+</div>
+
+<di id="editor"></div>
+
+<center>
+
+<p>
+
+
+<button onclick="printDiv('htmlContent')">Print / Save Pdf</button>
+
+</p>
+
+</center>
+
+<script type="text/javascript">
+
+      function printDiv(div_id)
+    {
+     var divToPrint=document.getElementById(div_id);
+     var newWin=window.open('','Print-Window');
+     newWin.document.open();
+     newWin.document.write('<html><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+     newWin.document.close();
+     setTimeout(function() { newWin.close();},10);
+    }
+</script>
